@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# 非常抱歉，macunkun.cn可能暂时无法访问
+> 本网页 [macunkun.cn ]为仅作为[macunkun.cn]网站运行情况的指示。若您是访问 [macunkun.cn]重定向而来，该网站可能在维护中，或是网站IP地址已被大陆地区屏蔽。
 
-You can use the [editor on GitHub](https://github.com/mckatscu/macunkun.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+此时，你依然可以通过电子邮件“i@macunkun.cn”联系到我 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#####  需要注意的是，如果您访问的连接是“www.macunkun.cn”，建议您尝试再次访问"[macunkun.cn](http://macunkun.cn "maucnkun.cn")"。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mckatscu/macunkun.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###### copyright 2019 macunkun.cn
